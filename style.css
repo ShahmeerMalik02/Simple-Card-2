@@ -1,0 +1,84 @@
+body {
+    background: rgb(131, 58, 180);
+    background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
+}
+
+.main-container {
+    display: flex;
+    justify-content: center;
+    gap: 90px;
+}
+
+.card-container {
+    border: 4px solid wheat;
+    width: 22%;
+    margin-top: 140px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 7px;
+
+}
+
+.first-btn button {
+    background-color: rgb(244, 182, 244);
+    margin-right: 55%;
+    font-weight: 500;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.image-container img {
+    margin-left: 10%;
+}
+
+h2 {
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 20px;
+}
+
+.p-1 {
+    font-size: 20px;
+    color: grey;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 20px;
+}
+
+.p-2 {
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 20px;
+}
+
+.btn-1 {
+    background-color: gainsboro;
+    color: grey;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 14px;
+    margin-left: 20px;
+}
+
+.btn-1 i {
+    padding-right: 10px;
+}
+
+.btn-2 {
+    background-color: rgb(131, 58, 180);
+    color: white;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 14px;
+    margin-left: 10px;
+}
+
+.btn-2 i {
+    padding-right: 10px;
+}
+
